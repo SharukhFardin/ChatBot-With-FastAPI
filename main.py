@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 openai = OpenAI(
-    api_key = os.getenv('OPENAI_API_SECRET_KEY')
+    api_key = os.getenv('OPENAI_API_KEY')
 )
 
 app = FastAPI()
