@@ -1,0 +1,4 @@
+# Create a .env file. This is a sample content
+
+# Create a OpenAPI account. Generate an API key. Watch Youtube.
+OPENAI_API_KEY = 'your-openapi-api-key'
